@@ -1,0 +1,7 @@
+{
+	"name": "bubble-scanner",
+	"version": "1.0.0",
+	"dependencies": {
+		"nan": "^2.14.0"
+	}
+}
